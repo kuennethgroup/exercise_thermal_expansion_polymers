@@ -1,0 +1,11 @@
+name,abb,cte_exp,Tg,smiles
+Poly(dimethyl siloxane),PDMS,0.000302,149,*O[Si](*)(C)C
+Poly(ethyl methacrylate),PEMA,9e-05,338,*CC(*)(C)C(=O)OCC
+Polyisobutylene,PIB,0.00018333333333333334,202,*CC(*)(C)C
+Poly(methyl methacrylate),PMMA,6e-05,317,*CC(*)(C)C(=O)OC
+Polyamide6,PA6,8.5e-05,325,*CCCCCC(=O)N*
+Polyacrylonitrile,PAN,6.500000000000001e-05,383,*CC(*)C#N
+Poly(caprolactone),PCL,0.00016500000000000003,207,*CCCCCC(=O)O*
+Poly(chlorotrifluoroethylene),PCTFE,5.5e-05,360,*C(F)(F)C(*)(F)Cl
+Poly(ether ether ketone),PEEK,7.75e-05,421,*Oc1ccc(Oc2ccc(C(=O)c3ccc(*)cc3)cc2)cc1C(C)(C)C
+Polyethylene terephthalate,PET,7.000000000000001e-05,350,*CCOC(=O)c1ccc(C(=O)O*)cc1

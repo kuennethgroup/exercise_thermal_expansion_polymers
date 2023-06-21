@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "exercise-thermal-expansion-of-polymers"
+version = "0.1.0"
+description = ""
+authors = ["Chris <chris@uni-bayreuth.de>"]
+readme = "README.md"
+packages = [{include = "exercise_thermal_expansion_polymers"}]
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.13"
+pandas = "^2.0.2"
+rdkit = "^2023.3.1"
+matplotlib = "^3.7.1"
+scipy = "^1.10.1"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.23.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
