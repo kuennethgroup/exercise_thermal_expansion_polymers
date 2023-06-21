@@ -1,9 +1,10 @@
 # Exercise: thermal expansion of polymers
 
 Files:
- - exercise.txt: this file. Contains notes and remarks for the exercise. Read carefully!
+ - README.md: markdown formated file. Contains notes and remarks for the exercise. Read carefully!
  - dataset.csv: comma separated CSV txt file (open with any editor) that contains the "coefficient of thermal expansion" (cte) of 11 polymers. 
-    Columns: 
+    
+    Columns in CSV files: 
     - name: polymer name
     - abb: short name of polymer 
     - cte_exp: measured cte of the polymer in 1/K
