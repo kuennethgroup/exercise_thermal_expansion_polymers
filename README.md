@@ -1,8 +1,8 @@
 # 🏋 Exercise - thermal expansion of polymers
 
+You will learn how to read that 
 
-
-## Instruction
+## 📖 Instruction
 
 1. Work in a jupyter notebook.
 
@@ -20,7 +20,7 @@
 [1] R. Simha and R.F. Boyer, J. Chem. Phys., 37, 1003 (1962)
 
 
-## Files
+## 📁 Files
 
  - README.md: markdown formated file. Contains notes and remarks for the exercise. Read carefully!
 
@@ -34,7 +34,7 @@
     - smiles: language to represent polymers (see https://www.polymergenome.org/guide and http://opensmiles.org/opensmiles.html)
 
 
-## The Kuenneth group @ UBT
+## 👥 The Kuenneth group @ UBT
 
 👀 https://kuenneth.uni-bayreuth.de
 
